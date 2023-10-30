@@ -6,8 +6,7 @@
     "bun-types": "latest"
   },
   "scripts": {
-    "start": "nodemon server.js",
-    "dev": "open http://localhost:3000 & npm start "
+    "start": "nodemon server.js"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
