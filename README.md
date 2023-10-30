@@ -2,11 +2,11 @@
 
 # Sample Blog Website
 
- "Sample Blog Website is a Node.js and Express.js application for creating and viewing blogs. This project provides a clean and modern user interface, making it easy to create and explore blog content."
+ Sample Blog Website is a Node.js and Express.js application for creating and viewing blogs. This project provides a clean and modern user interface, making it easy to create and explore blog content.
 
 # Installation
 
- "To install the project dependencies, use the following command:"
+ To install the project dependencies, use the following command:
 
  ```bash
   bun install
