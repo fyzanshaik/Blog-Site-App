@@ -3,6 +3,17 @@
 # Sample Blog Website
 
  Sample Blog Website is a Node.js and Express.js application for creating and viewing blogs. This project provides a clean and modern user interface, making it easy to create and explore blog content.
+ ## Installation
+
+### 1. Install Node.js
+
+Before you can run this project, you need to install Node.js. Here's how you can do it on Windows:
+
+1. Visit the official Node.js website: [Node.js Downloads](https://nodejs.org/download/).
+2. Download the "LTS" (Long Term Support) version for Windows.
+3. Run the installer and follow the installation instructions.
+
+Once Node.js is installed, you can proceed with the following steps.
 
 ## Clone the Repository
 
