@@ -26,7 +26,7 @@ Now, you have a local copy of the project ready for use.
  To install the project dependencies, use the following command:
 
  ```bash
-  bun install
+  npm install
  ```
 
 # Usage
@@ -34,7 +34,7 @@ Now, you have a local copy of the project ready for use.
  To run the project, execute the following command:
 
  ```bash
- bun run dev
+ npm run dev
  ```
 This will start the server using nodemon and open the website in your default web browser at http://localhost:3000.
 
