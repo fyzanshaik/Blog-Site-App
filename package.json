@@ -1,0 +1,21 @@
+{
+  "name": "sample-blog-website",
+  "module": "server.js",
+  "type": "commonjs",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "npm start & open http://localhost:3000"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "open": "^9.1.0"
+  }
+}

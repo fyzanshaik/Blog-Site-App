@@ -1,2 +1,15 @@
-# Blog-Site-App
-Sample Blog Website is a Node.js and Express.js application for creating and viewing blogs. It features a clean user interface and uses EJS for templating. This project is ongoing, with plans to add more features and enhancements in the future.
+# sample-blog-website
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run server.js
+```
+
+This project was created using `bun init` in bun v1.0.0. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.

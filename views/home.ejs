@@ -1,0 +1,18 @@
+<%- include("./includes/head.ejs") %>
+<main>
+  <% if(hasBlogs) { %>
+  <div class="blog-list">
+    <% for (let blog of blogs) { %>
+    <article class="blog-card">
+      <h2 class="blog-title"><%= blog.title %></h2>
+      <p class="blog-date"><%= blog.dateCreated %></p>
+      <p class="blog-topic"><%= blog.topic %></p>
+      <p class="blog-content"><%= blog.content %></p>
+    </article>
+    <% } %>
+  </div>
+  <% } else { %>
+  <h1>No blogs have been made</h1>
+  <% } %>
+</main>
+<%- include("./includes/end.ejs") %>

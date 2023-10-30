@@ -1,0 +1,29 @@
+/* Header and Navigation Styles */
+.main-header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .main-header__nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .main-header__item-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .main-header__item {
+    margin: 0 10px;
+  }
+  
+  .main-header__item a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  

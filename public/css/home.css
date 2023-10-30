@@ -1,0 +1,71 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header Styles */
+  .main-header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .main-header__nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .main-header__item-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .main-header__item {
+    margin: 0 10px;
+  }
+  
+  .main-header__item a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Blog Card Styles */
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .blog-title {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+  }
+  
+  .blog__title {
+    font-size: 1.5em;
+    margin: 0;
+  }
+  
+  .blog__date,
+  .blog__topic {
+    font-size: 1em;
+    color: #333;
+    margin: 5px 0;
+  }
+  
+  .blog__content {
+    font-size: 1.1em;
+    line-height: 1.4;
+  }
+  
