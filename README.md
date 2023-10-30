@@ -17,7 +17,7 @@ git clone https://github.com/fyzanshaik/Blog-Site-App.git
 ```
 Once the repository is cloned, navigate into the project directory:
 ```bash
-cd sample-blog-website
+cd Blog-Site-App
 ```
 Now, you have a local copy of the project ready for use.
 
