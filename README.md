@@ -9,7 +9,7 @@
 
 Before you can run this project, you need to install Node.js. Here's how you can do it on Windows:
 
-1. Visit the official Node.js website: [Node.js Downloads](https://nodejs.org/download/).
+1. Visit the official Node.js website: [Node.js Downloads](https://nodejs.org/en/download).
 2. Download the "LTS" (Long Term Support) version for Windows.
 3. Run the installer and follow the installation instructions.
 
