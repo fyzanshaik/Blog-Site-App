@@ -15,6 +15,16 @@ Before you can run this project, you need to install Node.js. Here's how you can
 
 Once Node.js is installed, you can proceed with the following steps.
 
+### 2. Install Git
+
+If you already have Git installed, you can skip this step. If not, follow these instructions to install it:
+
+- Visit the official Git website: [Git Downloads](https://git-scm.com/download/win).
+- Download the appropriate version for your platform.
+- Run the installer and follow the installation instructions.
+
+Open your prefered IDE and it's terminal and follow the next steps.
+
 ## Clone the Repository
 
 If you want to use this project on your local machine, you can clone the repository. Follow these steps:
