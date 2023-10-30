@@ -4,6 +4,23 @@
 
  Sample Blog Website is a Node.js and Express.js application for creating and viewing blogs. This project provides a clean and modern user interface, making it easy to create and explore blog content.
 
+## Clone the Repository
+
+If you want to use this project on your local machine, you can clone the repository. Follow these steps:
+
+1. Open your terminal.
+2. Navigate to the directory where you want to clone the project.
+3. Run the following command:
+
+```bash
+git clone <repository_url>
+```
+Once the repository is cloned, navigate into the project directory:
+```bash
+cd sample-blog-website
+```
+Now, you have a local copy of the project ready for use.
+
 # Installation
 
  To install the project dependencies, use the following command:
