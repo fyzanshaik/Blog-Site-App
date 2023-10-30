@@ -13,7 +13,7 @@ If you want to use this project on your local machine, you can clone the reposit
 3. Run the following command:
 
 ```bash
-git clone [<repository_url>](https://github.com/fyzanshaik/Blog-Site-App.git)
+git clone https://github.com/fyzanshaik/Blog-Site-App.git
 ```
 Once the repository is cloned, navigate into the project directory:
 ```bash
